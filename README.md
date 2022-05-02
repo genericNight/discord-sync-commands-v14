@@ -13,7 +13,7 @@ An upgrade over the existing [sync-commands](https://github.com/Androz2091/disco
 
 Below is a basic command handler that would support it.
 
-[global-slash-handler-v14](https://github.com/genericNight/global-slash-handler-v14)
+[global-slash-handler-v14](https://github.com/genericNight/slash-command-handler-v14)
 ## Installation
 
 Install discord-sync-commands-v14 with npm
